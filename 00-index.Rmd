@@ -1,3 +1,3 @@
-# 作者简介 {#author .unnumbered}
+# 作者简介 {#index .unnumbered}
 
 我是孙李，一名「野生网络作家」，朝九晚五之余以写作自娱自乐。如果您想了解我的个人经历，推荐阅读[迁徙的人](https://www.xianrenlife.com/2019/03/migration-1.html)；如果想知道我的写作动机，推荐阅读[我为什么写作](https://www.xianrenlife.com/2019/11/why-I-write.html)和[傻气的自我主义者](https://www.xianrenlife.com/2022/05/silly-egoist.html)。
